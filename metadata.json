@@ -1,0 +1,6 @@
+{
+  "name": "Budget Tracker",
+  "description": "A minimal Budget Tracker application to manage finances with incomes, expenses, and running balance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
